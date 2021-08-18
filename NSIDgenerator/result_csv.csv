@@ -1,0 +1,10 @@
+query,notfound,_id,_score,entrezgene,name,symbol,taxid
+RUNX2,,860,89.4698,860,RUNX family transcription factor 2,RUNX2,9606.0
+STK11,,6794,86.74253,6794,serine/threonine kinase 11,STK11,9606.0
+NEUROD1,,4760,86.53332,4760,neuronal differentiation 1,NEUROD1,9606.0
+TTF1,,7270,89.555244,7270,transcription termination factor 1,TTF1,9606.0
+PALB2,,79728,86.880104,79728,partner and localizer of BRCA2,PALB2,9606.0
+F3,,2152,89.74901,2152,"coagulation factor III, tissue factor",F3,9606.0
+POU2F3,,25833,86.87134,25833,POU class 2 homeobox 3,POU2F3,9606.0
+SLFN11,,91607,100.75213,91607,schlafen family member 11,SLFN11,9606.0
+CHGA,,1113,88.24237,1113,chromogranin A,CHGA,9606.0
