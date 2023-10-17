@@ -39,11 +39,12 @@ Before using this script, make sure you have the following software and librarie
 
 The script will generate a CSV file used as input for a pipeline but also a results CSV containing gene information for the provided gene symbols. The columns in the output file may include:
 
-- Input Gene Symbol Gene Symbols
-- Official Gene Symbol
-- Alias Symbols
-- Alias Gene Names
-- Identity Scores
+- Query	Not Found
+- ID Scores
+- Official Symbol
+- Official Gene Name
+- Alias Input
+- Taxonomy ID
 
 
 ## License
