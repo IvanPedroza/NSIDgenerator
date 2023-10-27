@@ -49,7 +49,7 @@ The script will generate a CSV file used as input for a pipeline but also a resu
 
 ## License
 
-This script is open-source and available under the [MIT License](LICENSE).
+This script is open-source and available under the [MIT License](https://github.com/IvanPedroza/NSIDgenerator/blob/master/LICENSE.md).
 
 ## Acknowledgments
 
